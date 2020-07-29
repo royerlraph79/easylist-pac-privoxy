@@ -15543,7 +15543,9 @@ var bad_da_host_JSON = { "10148.engine.mobileapptracking.com": null,
 "trafficjunky.com": null,
 "2020mustang.com": null,
 "playbuzz.com": null,
-"avplayer.com": null };
+"avplayer.com": null,
+"n1272serv.xyz": null,
+"d1272serve.xyz": null };
 var bad_da_host_exact_flag = 2050 > 0 ? true : false;  // test for non-zero number of rules
     
 // 9 rules as an efficient NFA RegExp:

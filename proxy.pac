@@ -15547,10 +15547,7 @@ var bad_da_host_JSON = { "10148.engine.mobileapptracking.com": null,
 "n1272serv.xyz": null,
 "d1272serve.xyz": null,
 "onelink.me": null,
-"appspot.com": null,
-"logdna.com": null,
-"test-app.link": null,
-"appcenter.ms": null };
+"appspot.com": null };
 var bad_da_host_exact_flag = 15315 > 0 ? true : false;  // test for non-zero number of rules
     
 // 9 rules as an efficient NFA RegExp:

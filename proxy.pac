@@ -16052,7 +16052,6 @@ var bad_da_host_JSON = { "10148.engine.mobileapptracking.com": null,
 "eroadvertising.com": null,
 "itsup.com": null,
 "impactslam.com": null,
-"networkmanag.com": null,
 "doublepimpads.com": null,
 "impactserving.com": null,
 "hrahdmon.com": null };

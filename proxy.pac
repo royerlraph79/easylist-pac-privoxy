@@ -16052,7 +16052,9 @@ var bad_da_host_JSON = { "10148.engine.mobileapptracking.com": null,
 "eroadvertising.com": null,
 "itsup.com": null,
 "impactslam.com": null,
-"networkmanag.com": null };
+"networkmanag.com": null,
+"doublepimpads.com": null,
+"impactserving.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 28 rules as an efficient NFA RegExp:

@@ -4231,7 +4231,11 @@ var bad_da_host_JSON = { "jobthread.com": null,
 "ad.flux.com": null,
 "freecounter.it": null,
 "clicktracks.com": null,
-"optimierung-der-website.de": null };
+"optimierung-der-website.de": null,
+"playbuzz.com": null,
+"trafficjunky.com": null,
+"2020mustang.com": null,
+"atedra.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 28 rules as an efficient NFA RegExp:

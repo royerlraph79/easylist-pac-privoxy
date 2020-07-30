@@ -4235,7 +4235,18 @@ var bad_da_host_JSON = { "jobthread.com": null,
 "playbuzz.com": null,
 "trafficjunky.com": null,
 "2020mustang.com": null,
-"atedra.com": null };
+"atedra.com": null,
+"adservice.google.ca": null,
+"google-analytics.com": null,
+"bigpipes.co": null,
+"gumgum.com": null,
+"exelator.com": null,
+"resonate.com": null,
+"googlesyndication.com": null,
+"doubleverify.com": null,
+"eyeota.net": null,
+"moatads.com": null,
+"adservice.google.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 28 rules as an efficient NFA RegExp:

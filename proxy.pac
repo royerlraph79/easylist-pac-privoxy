@@ -16054,7 +16054,8 @@ var bad_da_host_JSON = { "10148.engine.mobileapptracking.com": null,
 "livejasmin.com": null,
 "exosrv.com": null,
 "connect.facebook.com": null,
-"connect.facebook.net": null };
+"connect.facebook.net": null,
+"api.facebook.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 28 rules as an efficient NFA RegExp:

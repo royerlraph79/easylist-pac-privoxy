@@ -15594,7 +15594,13 @@ var bad_da_host_JSON = { "10148.engine.mobileapptracking.com": null,
 "imglnkc.com": null,
 "imglnkd.com": null,
 "imglnke.com": null,
-"now.sh": null };
+"now.sh": null,
+"quanta.io": null,
+"consensu.org": null,
+"tracking.shoko.fr": null,
+"fundingchoicesmessages.google.com": null,
+"4dex.io": null,
+"analytics.omerloclients.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 28 rules as an efficient NFA RegExp:

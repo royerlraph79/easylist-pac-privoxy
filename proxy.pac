@@ -15587,7 +15587,13 @@ var bad_da_host_JSON = { "10148.engine.mobileapptracking.com": null,
 "evtubescms.phncdn.com": null,
 "n1272serv.xyz": null,
 "d1272serve.xyz": null,
-"traffichaus.com": null };
+"traffichaus.com": null,
+"imglnk.com": null,
+"imglnka.com": null,
+"imglnkb.com": null,
+"imglnkc.com": null,
+"imglnkd.com": null,
+"imglnke.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 28 rules as an efficient NFA RegExp:

@@ -34,7 +34,7 @@ var normal = "DIRECT";
 var proxy = "DIRECT";                  // e.g. 127.0.0.1:3128
 // var blackhole_ip_port = "127.0.0.1:8119";  // ngnix-hosted blackhole
 // var blackhole_ip_port = "8.8.8.8:53";      // GOOG DNS blackhole; do not use: no longer works with iOS 11—causes long waits on some sites
-var blackhole_ip_port = "0.0.0.0:8119";    // on iOS a working blackhole requires return code 200;
+var blackhole_ip_port = "127.0.0.1:8119";    // on iOS a working blackhole requires return code 200;
 // e.g. use the adblock2privoxy nginx server as a blackhole
 var blackhole = "PROXY " + blackhole_ip_port;
 
@@ -268,8 +268,7 @@ var good_da_host_exceptions_JSON = { "iad.apple.com": null,
 "watson.telemetry.microsoft.com.nsatc.net": null,
 "wes.df.telemetry.microsoft.com": null,
 "win10.ipv6.microsoft.com": null,
-"www.bingads.microsoft.com": null,
-"mzstatic.com": null };
+"www.bingads.microsoft.com": null };
 var good_da_host_exceptions_exact_flag = 39 > 0 ? true : false;  // test for non-zero number of rules
 
 // 2058 rules:
@@ -3254,6 +3253,7 @@ var bad_da_host_JSON = { "10148.engine.mobileapptracking.com": null,
 "banner.congstar.de": null,
 "banner.dspcdn.com": null,
 "banner.fyber.com": null,
+"banners.itunes.apple.com": null,
 "banner.linksynergy.com": null,
 "banner.synergy-e.com": null,
 "bannerads.co.in": null,
@@ -16451,7 +16451,7 @@ else if (
    // Zoom
    dnsDomainIs(host, ".zoom.us")
 )
-        return "PROXY 0.0.0.0:3128";
+        return "PROXY localhost:3128";
 else
         return EasyListFindProxyForURL(url, host);
 }

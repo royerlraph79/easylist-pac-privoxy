@@ -15600,7 +15600,12 @@ var bad_da_host_JSON = { "10148.engine.mobileapptracking.com": null,
 "tracking.shoko.fr": null,
 "fundingchoicesmessages.google.com": null,
 "4dex.io": null,
-"analytics.omerloclients.com": null };
+"analytics.omerloclients.com": null,
+"livefyre.com": null,
+"trustarc.com": null,
+"fyre.co": null,
+"pswec.com": null,
+"iterable.com": null };
 var bad_da_host_exact_flag = 2058 > 0 ? true : false;  // test for non-zero number of rules
     
 // 5 rules as an efficient NFA RegExp:

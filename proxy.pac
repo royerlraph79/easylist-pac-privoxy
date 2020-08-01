@@ -17325,7 +17325,10 @@ var bad_da_host_JSON = { "1-1ads.com": null,
 "itsup.com": null,
 "doublepimpads.com": null,
 "livejasmin.com": null,
-"ibclick.stream": null };
+"ibclick.stream": null,
+"evtubescms.phncdn.com": null,
+"n1272serv.xyz": null,
+"d1272serve.xyz": null };
 var bad_da_host_exact_flag = 2058 > 0 ? true : false;  // test for non-zero number of rules
     
 // 6 rules as an efficient NFA RegExp:

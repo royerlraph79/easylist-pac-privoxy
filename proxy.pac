@@ -18184,7 +18184,7 @@ else if (
    // Zoom
    dnsDomainIs(host, ".zoom.us")
 )
-        return "PROXY localhost:3128";
+        return "PROXY 0.0.0.0";
 else
         return EasyListFindProxyForURL(url, host);
 }

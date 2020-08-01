@@ -210,7 +210,8 @@ var good_da_host_JSON = { "apple.com": null,
 "mt-ingestion-service-st11.itunes-apple.com.akadns.net": null,
 "microsoft.com": null,
 "mozilla.com": null,
-"mozilla.org": null };
+"mozilla.org": null,
+"mzstatic.com": null };
 var good_da_host_exact_flag = 110 > 0 ? true : false;  // test for non-zero number of rules
     
 // 4 rules as an efficient NFA RegExp:
@@ -16451,7 +16452,7 @@ else if (
    // Zoom
    dnsDomainIs(host, ".zoom.us")
 )
-        return "PROXY localhost:3128";
+        return "PROXY 0.0.0.0:3128";
 else
         return EasyListFindProxyForURL(url, host);
 }

@@ -17354,7 +17354,8 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "elsevier.com": null,
 "els-cdn.com": null,
 "doceree.com": null,
-"cookiebot.com": null };
+"cookiebot.com": null,
+"akamaihd.net": null };
 var bad_da_host_exact_flag = 2058 > 0 ? true : false;  // test for non-zero number of rules
     
 // 5 rules as an efficient NFA RegExp:

@@ -17349,7 +17349,12 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "iterable.com": null,
 "medtargetsystem.com": null,
 "content-ad.net": null,
-"insurads.com": null };
+"insurads.com": null,
+"parsely.com": null,
+"elsevier.com": null,
+"els-cdn.com": null,
+"doceree.com": null,
+"cookiebot.com": null };
 var bad_da_host_exact_flag = 2058 > 0 ? true : false;  // test for non-zero number of rules
     
 // 5 rules as an efficient NFA RegExp:

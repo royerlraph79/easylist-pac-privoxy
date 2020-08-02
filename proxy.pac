@@ -210,7 +210,8 @@ var good_da_host_JSON = { "apple.com": null,
 "mt-ingestion-service-st11.itunes-apple.com.akadns.net": null,
 "microsoft.com": null,
 "mozilla.com": null,
-"mozilla.org": null };
+"mozilla.org": null,
+"ai.phncdn.com": null };
 var good_da_host_exact_flag = 110 > 0 ? true : false;  // test for non-zero number of rules
     
 // 4 rules as an efficient NFA RegExp:
@@ -18189,6 +18190,7 @@ else if (
    (host == "ocsp.digicert.com") || dnsDomainIs(host, "ocsp.digicert.com") ||
    (host == "ocsp.entrust.net") || dnsDomainIs(host, "ocsp.entrust.net") ||
    (host == "ocsp.verisign.net") || dnsDomainIs(host, "ocsp.verisign.net") ||
+   (host == "ai.phncdn.com") || dnsDomainIs(host, "ai.phncdn.com") ||
    // Zoom
    dnsDomainIs(host, ".zoom.us")
 )

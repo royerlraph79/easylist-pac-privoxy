@@ -14287,7 +14287,9 @@ var bad_da_host_JSON = { "10148.engine.mobileapptracking.com": null,
 "els-cdn.com": null,
 "doceree.com": null,
 "cookiebot.com": null,
-"akamaihd.net": null };
+"akamaihd.net": null,
+"ohmybutt.com": null,
+"asf4f.us": null };
 var bad_da_host_exact_flag = 2083 > 0 ? true : false;  // test for non-zero number of rules
     
 // 6 rules as an efficient NFA RegExp:

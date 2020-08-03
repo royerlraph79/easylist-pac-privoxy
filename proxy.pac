@@ -232,6 +232,7 @@ var good_da_regex_flag = 0 > 0 ? true : false;  // test for non-zero number of r
 // 39 rules:
 var good_da_host_exceptions_JSON = { "iad.apple.com": null,
 "iadsdk.apple.com": null,
+"ca.iadsdk.apple.com": null,
 "iadsdk.apple.com.edgekey.net": null,
 "bingads.microsoft.com": null,
 "azure.bingads.trafficmanager.net": null,
@@ -12364,7 +12365,11 @@ var bad_da_host_JSON = { "10148.engine.mobileapptracking.com": null,
 "app-analytics.snapchat.com": null,
 "turn.com": null,
 "trustarc.com": null,
-"acuityplatform.com": null };
+"acuityplatform.com": null,
+"pubmatic.com": null,
+"3lift.com": null,
+"track.dictionary.com": null,
+"branch.io": null };
 var bad_da_host_exact_flag = 2098 > 0 ? true : false;  // test for non-zero number of rules
     
 // 6 rules as an efficient NFA RegExp:

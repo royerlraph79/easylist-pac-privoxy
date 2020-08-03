@@ -36,7 +36,7 @@ var proxy = "DIRECT";                  // e.g. 127.0.0.1:3128
 // var blackhole_ip_port = "8.8.8.8:53";      // GOOG DNS blackhole; do not use: no longer works with iOS 11—causes long waits on some sites
 var blackhole_ip_port = "0.0.0.0";    // on iOS a working blackhole requires return code 200;
 // e.g. use the adblock2privoxy nginx server as a blackhole
-var blackhole = "PROXY " + blackhole_ip_port;
+var blackhole = blackhole_ip_port;
 
 // The hostnames must be consistent with EasyList format.
 // These special RegExp characters will be escaped below: [.?+@]
@@ -12359,7 +12359,9 @@ var bad_da_host_JSON = { "10148.engine.mobileapptracking.com": null,
 "akamaihd.net": null,
 "ohmybutt.com": null,
 "asf4f.us": null,
-"traffichaus.com": null };
+"traffichaus.com": null,
+"onelink.me": null,
+"app-analytics.snapchat.com": null };
 var bad_da_host_exact_flag = 2098 > 0 ? true : false;  // test for non-zero number of rules
     
 // 6 rules as an efficient NFA RegExp:

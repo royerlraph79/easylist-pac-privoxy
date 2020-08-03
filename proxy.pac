@@ -12371,7 +12371,10 @@ var bad_da_host_JSON = { "10148.engine.mobileapptracking.com": null,
 "track.dictionary.com": null,
 "branch.io": null,
 "hotjar.com": null,
-"www-seerinteractive-com.cdn.ampproject.org": null };
+"www-seerinteractive-com.cdn.ampproject.org": null,
+"disqus.com": null,
+"disq.us": null,
+"disquscdn.com": null };
 var bad_da_host_exact_flag = 2098 > 0 ? true : false;  // test for non-zero number of rules
     
 // 6 rules as an efficient NFA RegExp:

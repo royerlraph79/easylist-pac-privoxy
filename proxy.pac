@@ -12376,7 +12376,9 @@ var bad_da_host_JSON = { "10148.engine.mobileapptracking.com": null,
 "disq.us": null,
 "disquscdn.com": null,
 "resonate.com": null,
-"sendtonews.com": null };
+"sendtonews.com": null,
+"nuggad.net": null,
+"appcenter.ms": null };
 var bad_da_host_exact_flag = 2098 > 0 ? true : false;  // test for non-zero number of rules
     
 // 6 rules as an efficient NFA RegExp:

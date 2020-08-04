@@ -12381,7 +12381,8 @@ var bad_da_host_JSON = { "10148.engine.mobileapptracking.com": null,
 "nuggad.net": null,
 "mopub.com": null,
 "heapanalytics.com": null,
-"appcenter.ms": null };
+"appcenter.ms": null,
+"media.net": null };
 var bad_da_host_exact_flag = 2098 > 0 ? true : false;  // test for non-zero number of rules
     
 // 6 rules as an efficient NFA RegExp:

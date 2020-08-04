@@ -34,7 +34,7 @@ var normal = "DIRECT";
 var proxy = "DIRECT";                  // e.g. 127.0.0.1:3128
 // var blackhole_ip_port = "127.0.0.1:8119";  // ngnix-hosted blackhole
 // var blackhole_ip_port = "8.8.8.8:53";      // GOOG DNS blackhole; do not use: no longer works with iOS 11—causes long waits on some sites
-var blackhole_ip_port = "0.0.0.0";    // on iOS a working blackhole requires return code 200;
+var blackhole_ip_port = "0.0.0.0:80";    // on iOS a working blackhole requires return code 200;
 // e.g. use the adblock2privoxy nginx server as a blackhole
 var blackhole = blackhole_ip_port;
 
@@ -233,6 +233,7 @@ var good_da_regex_flag = 0 > 0 ? true : false;  // test for non-zero number of r
 var good_da_host_exceptions_JSON = { "iad.apple.com": null,
 "iadsdk.apple.com": null,
 "ca.iadsdk.apple.com": null,
+"cf.iadsdk.apple.com": null,
 "iadsdk.apple.com.edgekey.net": null,
 "bingads.microsoft.com": null,
 "azure.bingads.trafficmanager.net": null,
@@ -12369,7 +12370,6 @@ var bad_da_host_JSON = { "10148.engine.mobileapptracking.com": null,
 "pubmatic.com": null,
 "3lift.com": null,
 "track.dictionary.com": null,
-"branch.io": null,
 "hotjar.com": null,
 "www-seerinteractive-com.cdn.ampproject.org": null,
 "disqus.com": null,

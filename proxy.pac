@@ -12394,7 +12394,11 @@ var bad_da_host_JSON = { "10148.engine.mobileapptracking.com": null,
 "impactslam.com": null,
 "networkmanag.com": null,
 "exosrv.com": null,
-"adworldmedia.com": null };
+"adworldmedia.com": null,
+"nudevista.com": null,
+"chaturbate.com": null,
+"hrahdmon.com": null,
+"highwebmedia.com": null };
 var bad_da_host_exact_flag = 2098 > 0 ? true : false;  // test for non-zero number of rules
     
 // 6 rules as an efficient NFA RegExp:

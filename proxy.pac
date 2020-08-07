@@ -12412,7 +12412,7 @@ var bad_da_host_JSON = { "10148.engine.mobileapptracking.com": null,
 "bidswitch.net": null,
 "mediavine.com": null,
 "dca0.com": null,
-"cloudfront.com": null };
+"cloudfront.net": null };
 var bad_da_host_exact_flag = 2098 > 0 ? true : false;  // test for non-zero number of rules
     
 // 6 rules as an efficient NFA RegExp:

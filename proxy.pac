@@ -12428,8 +12428,7 @@ var bad_da_host_JSON = { "10148.engine.mobileapptracking.com": null,
 "affirm.com": null,
 "yotpo.com": null,
 "igodigital.com": null,
-"hupso.com": null,
-"images-ssl.gotinder.com": null };
+"hupso.com": null };
 var bad_da_host_exact_flag = 2098 > 0 ? true : false;  // test for non-zero number of rules
     
 // 6 rules as an efficient NFA RegExp:

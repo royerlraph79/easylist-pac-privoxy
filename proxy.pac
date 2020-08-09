@@ -12427,6 +12427,7 @@ var bad_da_host_JSON = { "10148.engine.mobileapptracking.com": null,
 "cloudfront.net": null,
 "amazonaws.com": null,
 "firebaseio.com": null,
+"s-usc1c-nss-235.firebaseio.com": null,
 "firebaselogging-pa.googleapis.com": null,
 "firebaseremoteconfig.googleapis.com": null,
 "firebaseinstallations.googleapis.com": null };

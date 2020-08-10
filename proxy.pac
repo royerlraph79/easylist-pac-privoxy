@@ -16075,7 +16075,20 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "2020mustang.com": null,
 "nsimg.net": null,
 "n1272serv.xyz": null,
-"d1272serve.xyz": null };
+"d1272serve.xyz": null,
+"bigpipes.co": null,
+"sendtonews.com": null,
+"id5-sync.com": null,
+"casalemedia.com": null,
+"ssp.yahoo.com": null,
+"d29xw9s9x32j3w.cloudfront.net": null,
+"ibclick.stream": null,
+"livefyre.com": null,
+"turn.com": null,
+"pswec.com": null,
+"fyre.co": null,
+"akamaihd.net": null,
+"tindersparks.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

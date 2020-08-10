@@ -16099,11 +16099,9 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "quanta.io": null,
 "4dex.io": null,
 "tracking.shoko.fr": null,
-"fundingchoicesmessages.google.com": null,
 "platform.twitter.com": null,
 "consensu.org": null,
-"bttrack.com": null,
-"syndication.twitter.com": null };
+"bttrack.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

@@ -4047,7 +4047,6 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "bhclicks.com": null,
 "bhmedia-tagan.adlightning.com": null,
 "bi-analytics.cloudapp.net": null,
-"bi.medscape.com": null,
 "bid-east.intentiq.com": null,
 "bid.adview.cn": null,
 "bid.adview.com": null,
@@ -16070,7 +16069,11 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "zz.bdstatic.com": null,
 "zzhc.vnet.cn": null,
 "zzxd.mediav.com": null,
-"playbuzz.com": null };
+"playbuzz.com": null,
+"trafficjunky.com": null,
+"onelink.me": null,
+"2020mustang.com": null,
+"nsimg.net": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

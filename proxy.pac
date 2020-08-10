@@ -16095,7 +16095,15 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "vfgtb.com": null,
 "evtubescms.phncdn.com": null,
 "vfgte.com": null,
-"fyhu2-1.fna.fbcdn.net": null };
+"fyhu2-1.fna.fbcdn.net": null,
+"quanta.io": null,
+"4dex.io": null,
+"tracking.shoko.fr": null,
+"fundingchoicesmessages.google.com": null,
+"platform.twitter.com": null,
+"consensu.org": null,
+"bttrack.com": null,
+"syndication.twitter.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

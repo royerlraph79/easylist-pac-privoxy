@@ -16117,7 +16117,9 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "qualtrics.com": null,
 "doubleverify.com": null,
 "districtm.io": null,
-"summerhamster.com": null };
+"summerhamster.com": null,
+"analytics.omerloclients.com": null,
+"d147naq32wv3op.cloudfront.net": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

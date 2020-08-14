@@ -16128,7 +16128,12 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "jsmsat.com": null,
 "livejasmin.com": null,
 "crentgate.com": null,
-"hrahdmon.com": null };
+"hrahdmon.com": null,
+"adservice.google.com.au": null,
+"cookiepro.com": null,
+"geolocation.1trust.app": null,
+"plista.com": null,
+"swm.digital": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

@@ -171,7 +171,7 @@ var good_da_host_exceptions_JSON = { "iad.apple.com": null,
 "watson.telemetry.microsoft.com.nsatc.net": null,
 "wes.df.telemetry.microsoft.com": null,
 "win10.ipv6.microsoft.com": null,
-"bingads.microsoft.com": null };
+"www.bingads.microsoft.com": null };
 var good_da_host_exceptions_exact_flag = 39 > 0 ? true : false;  // test for non-zero number of rules
 
 // 3999 rules:
@@ -16036,7 +16036,8 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "cookiepro.com": null,
 "geolocation.1trust.app": null,
 "plista.com": null,
-"swm.digital": null };
+"swm.digital": null,
+"poool.fr": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:
@@ -16175,7 +16176,6 @@ function EasyListFindProxyForURL(url, host)
                 return blackhole;
             }
         }
-        
         for (i in GoodNetworks_Array) {
             tmpNet = GoodNetworks_Array[i].split(/,\s*/);
             if (isInNet(host_ipv4_address, tmpNet[0], tmpNet[1])) {
@@ -16192,15 +16192,15 @@ function EasyListFindProxyForURL(url, host)
             }
         }
     }
-
+    
     if ( scheme == "https" && url_pathonly == "/" ) {
-        
+
         if ( (good_da_host_exact_flag && (hasOwnProperty(good_da_host_JSON,host_noserver)||hasOwnProperty(good_da_host_JSON,host)))
             && !hasOwnProperty(good_da_host_exceptions_JSON,host) ) {
                 alert_flag && alert("HTTPS PASS: " + host + ", " + host_noserver);
             return proxy;
         }
-        
+
         if ( (bad_da_host_exact_flag && (hasOwnProperty(bad_da_host_JSON,host_noserver)||hasOwnProperty(bad_da_host_JSON,host))) ) {
             alert_flag && alert("HTTPS blackhole: " + host + ", " + host_noserver);
             return blackhole;
@@ -16208,7 +16208,7 @@ function EasyListFindProxyForURL(url, host)
     }
 
     if (scheme == "https" || scheme == "http") {
-        
+
         if ( !hasOwnProperty(good_da_host_exceptions_JSON,host)
             && ((good_da_host_exact_flag && (hasOwnProperty(good_da_host_JSON,host_noserver)||hasOwnProperty(good_da_host_JSON,host))) ||  // fastest test first
                 (use_pass_rules_parts_flag &&

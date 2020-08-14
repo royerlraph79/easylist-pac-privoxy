@@ -16097,10 +16097,6 @@ var hostpart_RegExp = RegExp("^((?:[\\w-]+\\.)+[a-zA-Z0-9-]{2,24}\\.?)", "i");
 var querypart_RegExp = RegExp("^((?:[\\w-]+\\.)+[a-zA-Z0-9-]{2,24}\\.?[\\w~%.\\/^*-]*)(\\??\\S*?)$", "i");
 var domainpart_RegExp = RegExp("^(?:[\\w-]+\\.)*((?:[\\w-]+\\.)[a-zA-Z0-9-]{2,24})\\.?", "i");
 
-//////////////////////////////////////////////////
-// Define the is_ipv4_address function and vars //
-//////////////////////////////////////////////////
-
 var ipv4_RegExp = /^(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})$/;
 
 function is_ipv4_address(host)
@@ -16124,17 +16120,6 @@ function is_ipv4_address(host)
 var hasOwnProperty = function(obj, prop) {
     return obj.hasOwnProperty(prop);
 }
-
-/////////////////////
-// Done Setting Up //
-/////////////////////
-
-// debug with Chrome at chrome://net-export
-// alert("Debugging message.")
-
-//////////////////////////////////
-// Define the FindProxyFunction //
-//////////////////////////////////
 
 var use_pass_rules_parts_flag = true;  // use the pass rules for url parts, then apply the block rules
 var alert_flag = false;                // use for short-circuit '&&' to print debugging statements
@@ -16178,19 +16163,10 @@ function EasyListFindProxyForURL(url, host)
         return blackhole;
     }
 
-    ///////////////////////////////////////////////////////////////////////
-    // Check to make sure we can get an IPv4 address from the given host //
-    // name.  If we cannot do that then skip the Networks tests.         //
-    ///////////////////////////////////////////////////////////////////////
-
     host_ipv4_address = host_is_ipv4 ? host : (isResolvable(host) ? dnsResolve(host) : false);
 
     if (host_ipv4_address) {
         alert_flag && alert("host ipv4 address is: " + host_ipv4_address);
-        /////////////////////////////////////////////////////////////////////////////
-        // If the IP translates to one of the GoodNetworks_Array (with exceptions) //
-        // we pass it because it is considered safe.                               //
-        /////////////////////////////////////////////////////////////////////////////
 
         for (i in GoodNetworks_Exceptions_Array) {
             tmpNet = GoodNetworks_Exceptions_Array[i].split(/,\s*/);
@@ -16199,6 +16175,7 @@ function EasyListFindProxyForURL(url, host)
                 return blackhole;
             }
         }
+        
         for (i in GoodNetworks_Array) {
             tmpNet = GoodNetworks_Array[i].split(/,\s*/);
             if (isInNet(host_ipv4_address, tmpNet[0], tmpNet[1])) {
@@ -16206,11 +16183,6 @@ function EasyListFindProxyForURL(url, host)
                 return proxy;
             }
         }
-
-        ///////////////////////////////////////////////////////////////////////
-        // If the IP translates to one of the BadNetworks_Array we fail it   //
-        // because it is not considered safe.                                //
-        ///////////////////////////////////////////////////////////////////////
 
         for (i in BadNetworks_Array) {
             tmpNet = BadNetworks_Array[i].split(/,\s*/);
@@ -16221,48 +16193,22 @@ function EasyListFindProxyForURL(url, host)
         }
     }
 
-    //////////////////////////////////////////////////////////////////////////////
-    // HTTPS: https scheme can only use domain information                      //
-    // unless PacHttpsUrlStrippingEnabled == false [Chrome] or                  //
-    // network.proxy.autoconfig_url.include_path == true [Firefox, about:config]              //
-    // E.g. on macOS:                                                           //
-    // defaults write com.google.Chrome PacHttpsUrlStrippingEnabled -bool false //
-    // Check setting at page chrome://policy                                    //
-    //////////////////////////////////////////////////////////////////////////////
-
-    // Assume browser has disabled path access if scheme is https and path is '/'
     if ( scheme == "https" && url_pathonly == "/" ) {
-
-        ///////////////////////////////////////////////////////////////////////
-        // PASS LIST:   domains matched here will always be allowed.         //
-        ///////////////////////////////////////////////////////////////////////
-
+        
         if ( (good_da_host_exact_flag && (hasOwnProperty(good_da_host_JSON,host_noserver)||hasOwnProperty(good_da_host_JSON,host)))
             && !hasOwnProperty(good_da_host_exceptions_JSON,host) ) {
                 alert_flag && alert("HTTPS PASS: " + host + ", " + host_noserver);
             return proxy;
         }
-
-        //////////////////////////////////////////////////////////
-        // BLOCK LIST:	stuff matched here here will be blocked //
-        //////////////////////////////////////////////////////////
-
+        
         if ( (bad_da_host_exact_flag && (hasOwnProperty(bad_da_host_JSON,host_noserver)||hasOwnProperty(bad_da_host_JSON,host))) ) {
             alert_flag && alert("HTTPS blackhole: " + host + ", " + host_noserver);
             return blackhole;
         }
     }
 
-    ////////////////////////////////////////
-    // HTTPS and HTTP: full path analysis //
-    ////////////////////////////////////////
-
     if (scheme == "https" || scheme == "http") {
-
-        ///////////////////////////////////////////////////////////////////////
-        // PASS LIST:   domains matched here will always be allowed.         //
-        ///////////////////////////////////////////////////////////////////////
-
+        
         if ( !hasOwnProperty(good_da_host_exceptions_JSON,host)
             && ((good_da_host_exact_flag && (hasOwnProperty(good_da_host_JSON,host_noserver)||hasOwnProperty(good_da_host_JSON,host))) ||  // fastest test first
                 (use_pass_rules_parts_flag &&
@@ -16276,9 +16222,6 @@ function EasyListFindProxyForURL(url, host)
             return proxy;
         }
 
-        //////////////////////////////////////////////////////////
-        // BLOCK LIST:	stuff matched here here will be blocked //
-        //////////////////////////////////////////////////////////
         // Debugging results
         if (debug_flag && alert_flag) {
             alert("hasOwnProperty(bad_da_host_JSON," + host_noserver + "): " + (bad_da_host_exact_flag && hasOwnProperty(bad_da_host_JSON,host_noserver)));

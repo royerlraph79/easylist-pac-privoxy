@@ -16122,7 +16122,10 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "eroadvertising.com": null,
 "adme-net.com": null,
 "chaturbate.com": null,
-"highwebmedia.com": null };
+"highwebmedia.com": null,
+"yadro.ru": null,
+"poolgmsd.com": null,
+"pushlaram.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

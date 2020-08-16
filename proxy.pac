@@ -16049,7 +16049,9 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "realsrv.com": null,
 "exosrv.com": null,
 "rtbsuperhub.com": null,
-"ackcdn.net": null };
+"ackcdn.net": null,
+"madcheddar.com": null,
+"blkditsup.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

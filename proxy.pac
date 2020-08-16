@@ -15968,7 +15968,6 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "trafficjunky.com": null,
 "onelink.me": null,
 "2020mustang.com": null,
-"nsimg.net": null,
 "n1272serv.xyz": null,
 "d1272serve.xyz": null,
 "bigpipes.co": null,
@@ -16045,7 +16044,8 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "switchadhub.com": null,
 "trafficfactory.biz": null,
 "iwanttodeliver.com": null,
-"opoxv.com": null };
+"opoxv.com": null,
+"icfcdn.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

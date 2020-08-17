@@ -16057,7 +16057,9 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "moneypunchstep.online": null,
 "vasgenerete.site": null,
 "faromen.online": null,
-"calevent.online": null };
+"calevent.online": null,
+"pix-cdn.org": null,
+"visitstats.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

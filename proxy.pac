@@ -16056,8 +16056,7 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "adworldmedia.com": null,
 "pix-cdn.org": null,
 "visitstats.com": null,
-"dynsrvcab.com": null,
-"perpello.io": null };
+"dynsrvcab.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

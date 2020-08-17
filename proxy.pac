@@ -16049,13 +16049,7 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "madcheddar.com": null,
 "blkditsup.com": null,
 "titanads1.com": null,
-"faromen.online": null,
-"vasgenerete.site": null,
-"moneypunchstep.online": null,
-"notiftoday.online": null,
 "adworldmedia.com": null,
-"pix-cdn.org": null,
-"visitstats.com": null,
 "dynsrvcab.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     

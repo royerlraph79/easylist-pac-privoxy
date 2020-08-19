@@ -16096,7 +16096,7 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "marphezis.com": null,
 "1rx.io": null,
 "getsocial.io": null,
-"ads.linkedin.com": null,
+"px.ads.linkedin.com": null,
 "2o7.net": null,
 "quantcast.com": null,
 "smartp.com": null,
@@ -16105,7 +16105,10 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "orangeads.fr": null,
 "woopic.com": null,
 "ccmbg.com": null,
-"ip-api.com": null };
+"ip-api.com": null,
+"cxense.com": null,
+"signatu.com": null,
+"hubspot.net": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

@@ -16131,7 +16131,14 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "conversionpipeline.com": null,
 "digiday.com": null,
 "loadonenot.online": null,
-"seraton.online": null };
+"seraton.online": null,
+"impactserving.com": null,
+"nakedreel.com": null,
+"jannews.pro": null,
+"masterbate.pro": null,
+"nvrblk.xyz": null,
+"clknrtrg.pro": null,
+"somecdn.bid": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

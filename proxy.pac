@@ -16151,7 +16151,8 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "bstlnk.com": null,
 "wctrk.com": null,
 "wpncdn.com": null,
-"x1cdn.com": null };
+"x1cdn.com": null,
+"stripst.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

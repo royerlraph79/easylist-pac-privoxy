@@ -16108,6 +16108,13 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "cxense.com": null,
 "signatu.com": null,
 "hubspot.net": null,
+"hubspot.com": null,
+"hsforms.net": null,
+"hsforms.com": null,
+"hsadspixel.net": null,
+"hscollectedforms.net": null,
+"hsappstatic.com": null,
+"hs-scripts.com": null,
 "absolu.ca": null,
 "platform.linkedin.com": null,
 "ads-api.ft.com": null,
@@ -16120,7 +16127,9 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "anrdoezrs.net": null,
 "youradchoices.ca": null,
 "adchoices.com.vn": null,
-"adchoices.corusdigitaldev.com": null };
+"adchoices.corusdigitaldev.com": null,
+"conversionpipeline.com": null,
+"digiday.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

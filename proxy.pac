@@ -16159,7 +16159,9 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "myfinance.com": null,
 "analytics.myfidevs.io": null,
 "analytics-engine.com": null,
-"ywxi.net": null };
+"ywxi.net": null,
+"mouseflow.com": null,
+"medtargetsystem.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

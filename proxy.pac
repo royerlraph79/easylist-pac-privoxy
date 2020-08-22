@@ -16174,7 +16174,8 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "en25.com": null,
 "agilemeasure.com": null,
 "oracleinfinity.io": null,
-"cdn77.org": null };
+"cdn77.org": null,
+"etrack.ext.hpe.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

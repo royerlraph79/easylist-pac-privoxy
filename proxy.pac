@@ -16168,9 +16168,13 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "mediavoice.com": null,
 "udc.yahoo.com": null,
 "gigya.com": null,
-"collector.githubapp.com": null,
 "recodata.shared-svc.bellmedia.ca": null,
-"truste.com": null };
+"truste.com": null,
+"d41.co": null,
+"en25.com": null,
+"agilemeasure.com": null,
+"oracleinfinity.io": null,
+"cdn77.org": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

@@ -16155,6 +16155,7 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "stripst.com": null,
 "cdn13.com": null,
 "collector.xhamster.com": null,
+"collector.githubapp.com": null, 
 "myfinance.com": null,
 "analytics.myfidevs.io": null,
 "analytics-engine.com": null,
@@ -16168,7 +16169,7 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "mediavoice.com": null,
 "udc.yahoo.com": null,
 "gigya.com": null,
-"recodata.shared-svc.bellmedia.ca": null
+"recodata.shared-svc.bellmedia.ca": null,
 "truste.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     

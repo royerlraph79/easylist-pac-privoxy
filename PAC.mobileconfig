@@ -13,14 +13,14 @@
 
 			<key>PayloadIdentifier</key>
 			<!-- REPLACE GENERATED_UUID_01 -->
-			<string>com.apple.proxy.http.global.04437b9e-d0fa-11ea-87d0-0242ac130003</string>
+			<string>com.apple.proxy.http.global.f25bf3a2-e48b-11ea-87d0-0242ac130003</string>
 
 			<key>PayloadType</key>
 			<string>com.apple.proxy.http.global</string>
 
 			<!-- REPLACE GENERATED_UUID_01 -->
 			<key>PayloadUUID</key>
-			<string>04437b9e-d0fa-11ea-87d0-0242ac130003</string>
+			<string>f25bf3a2-e48b-11ea-87d0-0242ac130003</string>
 
 			<key>PayloadVersion</key>
 			<integer>1</integer>
@@ -46,7 +46,7 @@
 	
 	<key>PayloadIdentifier</key>
 	<!-- CREATE AN IDENTIFIER FOR YOUR PROFILE AND REPLACE GENERATED_UUID_02 -->
-	<string>com.royerlraph79.adblock.04437de2-d0fa-11ea-87d0-0242ac130003</string>
+	<string>com.royerlraph79.adblock.f25bf5dc-e48b-11ea-87d0-0242ac130003</string>
 	
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
@@ -56,7 +56,7 @@
 
 	<key>PayloadUUID</key>
 	<!-- REPLACE GENERATED_UUID_03 -->
-	<string>04437ee6-d0fa-11ea-87d0-0242ac130003</string>
+	<string>f25bf6cc-e48b-11ea-87d0-0242ac130003</string>
 
 	<key>PayloadVersion</key>
 	<integer>1</integer>

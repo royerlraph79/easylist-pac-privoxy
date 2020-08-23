@@ -16166,7 +16166,7 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "udc.yahoo.com": null,
 "gigya.com": null,
 "recodata.shared-svc.bellmedia.ca": null,
-"consent.truste.com": null,
+"truste.com": null,
 "d41.co": null,
 "en25.com": null,
 "agilemeasure.com": null,
@@ -16195,7 +16195,15 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "driftt.com": null,
 "driftcdn.com": null,
 "slgnt.eu": null,
-"targetemsecure.blob.core.windows.net": null };
+"targetemsecure.blob.core.windows.net": null,
+"zdbb.net": null,
+"aj1015.online": null,
+"bidswitch.net": null,
+"infolinks.com": null,
+"33accross.com": null,
+"tynt.com": null,
+"ziffstatic.com": null,
+"onetag-sys.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

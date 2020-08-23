@@ -16184,7 +16184,8 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "inter1ads.com": null,
 "sumo.com": null,
 "widgets-stripst-com.cdn.ampproject.org": null,
-"webclicks24.com": null };
+"webclicks24.com": null,
+"industrybrains.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

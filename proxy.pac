@@ -16205,7 +16205,8 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "ziffstatic.com": null,
 "onetag-sys.com": null,
 "goutee.top": null,
-"mediaathay.org.uk": null };
+"mediaathay.org.uk": null,
+"ezoic.net": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

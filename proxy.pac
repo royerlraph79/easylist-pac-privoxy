@@ -16206,7 +16206,16 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "onetag-sys.com": null,
 "goutee.top": null,
 "mediaathay.org.uk": null,
-"ezoic.net": null };
+"ezoic.net": null,
+"analytics.getshogun.com": null,
+"segmanta.com": null,
+"hearstapps.com": null,
+"jst.ai": null,
+"postscript.io": null,
+"klaviyo.com": null,
+"refersion.com": null,
+"dwin1.com": null,
+"pagesense.io": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

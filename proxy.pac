@@ -16214,7 +16214,13 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "klaviyo.com": null,
 "refersion.com": null,
 "dwin1.com": null,
-"pagesense.io": null };
+"pagesense.io": null,
+"web-analytics.smile.io": null,
+"platform.smile.io": null,
+"markethero.io": null,
+"hyros.com": null,
+"pepperjam.com": null,
+"pbbl.co": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

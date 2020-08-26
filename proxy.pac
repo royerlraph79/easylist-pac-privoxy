@@ -16220,7 +16220,9 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "pepperjam.com": null,
 "pbbl.co": null,
 "platform.twitter.com": null,
-"platform.smile.io": null };
+"platform.smile.io": null,
+"iterable.com": null,
+"amplitude.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

@@ -16226,7 +16226,8 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "stapp.ch": null,
 "site24x7rum.com": null,
 "cloudflareinsights.com": null,
-"adpushup.com": null };
+"adpushup.com": null,
+"ipify.org": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

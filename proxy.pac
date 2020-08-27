@@ -16228,7 +16228,10 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "adpushup.com": null,
 "ipify.org": null,
 "imglnke.com": null,
-"qiota.com": null };
+"qiota.com": null,
+"cbsi.com": null,
+"megaphone.fm": null,
+"trustx.org": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

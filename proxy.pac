@@ -16231,7 +16231,24 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "qiota.com": null,
 "cbsi.com": null,
 "megaphone.fm": null,
-"trustx.org": null };
+"trustx.org": null,
+"shemedia.com": null,
+"atwola.com": null,
+"adtechus.com": null,
+"meredith.services": null,
+"monetate.net": null,
+"pubexchange.com": null,
+"ooyala.com": null,
+"cnevids.com": null,
+"memoinsights.com": null,
+"aolcdn.com": null,
+"pubmatic.com": null,
+"adspsp.com": null,
+"swoop.com": null,
+"swpsvc.com": null,
+"swpcld.com": null,
+"condenastdigital.com": null,
+"conde.io": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

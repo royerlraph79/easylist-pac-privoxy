@@ -16267,7 +16267,15 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "securedataimages.com": null,
 "ohgaytube.com": null,
 "fapmale.com": null,
-"dtprofit.com": null };
+"dtprofit.com": null,
+"pagimp.com": null,
+"schjmp.com": null,
+"prownl.com": null,
+"imstks.com": null,
+"8e7iazfvf2.com": null,
+"stripcdn.com": null,
+"stripst.com": null,
+"stripchat.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

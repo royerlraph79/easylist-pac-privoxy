@@ -16279,7 +16279,14 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "du2tyo5gyj.com": null,
 "greybison.com": null,
 "bisonads.com": null,
-"greystatic.com": null };
+"greystatic.com": null,
+"tradblock.com": null,
+"trblocked.com": null,
+"mbserving.com": null,
+"servingmillions.com": null,
+"heavyrnews.pro": null,
+"brainian.club": null,
+"fluidplayer.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

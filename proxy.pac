@@ -16264,7 +16264,9 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "cdngain.com": null,
 "cdnvault.com": null,
 "ofrsrv.com": null,
-"securedataimages.com": null };
+"securedataimages.com": null,
+"ohgaytube.com": null,
+"fapmale.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

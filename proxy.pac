@@ -16239,7 +16239,6 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "monetate.net": null,
 "pubexchange.com": null,
 "ooyala.com": null,
-"cnevids.com": null,
 "aolcdn.com": null,
 "pubmatic.com": null,
 "adspsp.com": null,
@@ -16247,7 +16246,8 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "swpsvc.com": null,
 "swpcld.com": null,
 "condenastdigital.com": null,
-"conde.io": null };
+"conde.io": null,
+"memoinsights.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

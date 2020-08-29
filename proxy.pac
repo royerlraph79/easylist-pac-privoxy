@@ -16296,7 +16296,6 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "clksite.com": null,
 "mopinion.com": null,
 "adservice.google.ru": null,
-"zdassets.com": null,
 "logdna.com": null
 "wistia.com": null,
 "crazyegg.com": null,

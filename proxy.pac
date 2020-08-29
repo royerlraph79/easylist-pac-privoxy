@@ -16313,10 +16313,6 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "meowpushnot.com": null,
 "qfjherc.com": null,
 "mopinion.com": null,
-"sillrochester.com": null,
-"sentry.io": null,
-"sentry-cdn.com": null,
-"getsentry.com: null,
 "adservice.google.ru": null,
 "logdna.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules

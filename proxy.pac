@@ -16318,9 +16318,7 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "crazyegg.com": null,
 "pendo.io": null,
 "6sense.com": null,
-"6sc.co": null,
-"zdassets.com": null,
-"adservice.google.ru": null };
+"6sc.co": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

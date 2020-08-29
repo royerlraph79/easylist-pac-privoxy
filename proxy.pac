@@ -16316,7 +16316,6 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "qfjherc.com": null,
 "mopinion.com": null,
 "sillrochester.com": null,
-"adservice.google.ru": null,
 "sentry.io": null,
 "sentry-cdn.com": null,
 "getsentry.com: null };

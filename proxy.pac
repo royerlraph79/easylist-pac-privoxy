@@ -16300,7 +16300,10 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "adservice.google.ru": null,
 "sillrochester.com": null,
 "zdassets.com": null,
-"logdna.com": null };
+"logdna.com": null,
+"infopicked.com": null,
+"qfjherc.com": null,
+"prepenseprepensedefiance.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

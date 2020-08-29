@@ -16292,9 +16292,6 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "lologhfd.com": null,
 "ulukaris.com": null,
 "networkpb.com": null,
-"zdassets.com": null,
-"zendesk.com": null,
-"locallogic.co": null,
 "promobi-shield.eu": null,
 "mobile-protoshield.eu": null,
 "testamentfendsounding.com": null,
@@ -16318,7 +16315,8 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "sillrochester.com": null,
 "sentry.io": null,
 "sentry-cdn.com": null,
-"getsentry.com: null };
+"getsentry.com: null,
+"adservice.google.ru": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

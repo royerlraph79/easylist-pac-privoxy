@@ -16304,7 +16304,17 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "360yield.com": null,
 "onetrust.com": null,
 "exacttarget.com": null,
-"kxcdn.com": null };
+"kxcdn.com": null,
+"cdn.live": null,
+"bestcontentnetwork.top": null,
+"doublepimp.com": null,
+"qrlsx.com": null,
+"painsko.com": null,
+"truesweb.com": null,
+"souvlatraffic.com": null,
+"smartclick.net": null,
+"coltagainst.pro": null,
+"tidint.pro": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

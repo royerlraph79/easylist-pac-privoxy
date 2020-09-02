@@ -16321,7 +16321,16 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "squirt.org": null,
 "trfpump.com": null,
 "pichaloca.com": null,
-"nudevista.com": null };
+"nudevista.com": null,
+"pingdom.net": null,
+"inheritwalter.com": null,
+"ie8eamus.com": null,
+"d24ak3f2b.top": null,
+"nbf9b5aurl.com": null,
+"wpnjs.com": null,
+"madsips.com": null,
+"invitesuperstitiousadmire.com": null,
+"grownuplieutenant.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

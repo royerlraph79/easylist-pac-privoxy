@@ -16283,7 +16283,6 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "servingmillions.com": null,
 "heavyrnews.pro": null,
 "brainian.club": null,
-"fluidplayer.com": null,
 "swesomepop.com": null,
 "jb7hvckszone.com": null,
 "lologhfd.com": null,
@@ -16333,7 +16332,14 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "grownuplieutenant.com": null,
 "offshoretolerantbenignity.com": null,
 "testamentfendsounding.com": null,
-"goldenbettingefforlessefforless.com": null };
+"goldenbettingefforlessefforless.com": null,
+"chaturbate.com": null,
+"fasta.xyz": null,
+"hprofits.com": null,
+"2hisnd.com": null,
+"kelt-195b.com": null,
+"adspyglass.com": null,
+"highwebmedia.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

@@ -16361,7 +16361,16 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "sillrochester.com": null,
 "rusenov.com": null,
 "cloudfrale.com": null,
-"acloudimages.com": null };
+"acloudimages.com": null,
+"fortt-rade.com": null,
+"exoclsodaqs.com": null,
+"press-to-allow.com": null,
+"xxccdshj.com": null,
+"firebaseio.com": null,
+"firebaseinstallations.googleapis.com": null,
+"firebaseremoteconfig.googleapis.com": null,
+"firebaselogging-pa.googleapis.com": null,
+"allclean.s3.amazonaws.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

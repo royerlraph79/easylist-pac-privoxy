@@ -16383,7 +16383,10 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "b86d4006e465f5ef74e4438b0cb802605e5c7993ac0002a876149c70.com": null,
 "gtmcontent.com": null,
 "apphud.com": null,
-"device-provisioning.googleapis.com": null };
+"device-provisioning.googleapis.com": null,
+"firebaseinappmessaging.googleapis.com": null,
+"8617ebae48a9676d9988f72e4f1f84f7e5681d28bfefb7fb34a6f2a4.com": null,
+"appcenter.ms": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

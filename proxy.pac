@@ -16377,7 +16377,13 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "analytics.yahoo.com": null,
 "gtrack.thefunpost.com": null,
 "ontraport.com": null,
-"hellobar.com": null };
+"hellobar.com": null,
+"stats.tpsgc-pwgsc.gc.ca": null,
+"296f6d066d2d677acb6808a4679e79638fc7a4db9d511f33a0c245d8.com": null,
+"b86d4006e465f5ef74e4438b0cb802605e5c7993ac0002a876149c70.com": null,
+"gtmcontent.com": null,
+"apphud.com": null,
+"device-provisioning.googleapis.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

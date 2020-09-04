@@ -16440,7 +16440,8 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "967rett6fzaf.com": null,
 "expertnifg.com": null,
 "kiolim.com": null,
-"ippsrvng.xyz": null };
+"ippsrvng.xyz": null,
+"c3t-system-err.club": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

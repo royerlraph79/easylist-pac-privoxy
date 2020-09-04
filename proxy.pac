@@ -16319,7 +16319,6 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "squirt.org": null,
 "trfpump.com": null,
 "pichaloca.com": null,
-"nudevista.com": null,
 "pingdom.net": null,
 "inheritwalter.com": null,
 "ie8eamus.com": null,
@@ -16441,7 +16440,17 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "expertnifg.com": null,
 "kiolim.com": null,
 "ippsrvng.xyz": null,
-"c3t-system-err.club": null };
+"c3t-system-err.club": null,
+"mungim.xyz": null,
+"chopcdn.com": null,
+"fuckmovs.pro": null,
+"bhabhiporn.pro": null,
+"violetmovies.com": null,
+"pornhubgay.pro": null,
+"qwerfdx.com": null,
+"insomn.pro": null,
+"xu2.com": null,
+"rtpdn11.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

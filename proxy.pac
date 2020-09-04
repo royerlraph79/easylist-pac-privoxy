@@ -16414,7 +16414,8 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "he7ll.com": null,
 "fapvid.com": null,
 "hardpole.com": null,
-"helltraffic.com": null };
+"helltraffic.com": null,
+"ngscontralvi.info": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

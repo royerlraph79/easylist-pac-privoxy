@@ -16399,7 +16399,22 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "dylelicy.pro": null,
 "agmermer.pro": null,
 "bngpt.com": null,
-"zzipps.com": null };
+"zzipps.com": null,
+"wurfl.io": null,
+"idiafix.com": null,
+"terrapsps.com": null,
+"livejasmin.com": null,
+"webpinp.com": null,
+"twinrdsrv.com": null,
+"nsimg.com": null,
+"awemdia.com": null,
+"1ts11.top": null,
+"bongacams7.com": null,
+"xcum.com": null,
+"he7ll.com": null,
+"fapvid.com": null,
+"hardpole.com": null,
+"helltraffic.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

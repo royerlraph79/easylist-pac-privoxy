@@ -16461,7 +16461,9 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "adpaths.com": null,
 "adwstats.com": null,
 "as-stats.com": null,
-"widgets-stripst-com.cdn.ampproject.org": null };
+"widgets-stripst-com.cdn.ampproject.org": null,
+"ulasj13420928.de": null,
+"kepler-37b.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

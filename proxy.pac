@@ -16293,7 +16293,6 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "6sense.com": null,
 "6sc.co": null,
 "adservice.google.ru": null,
-"zdassets.com": null,
 "logdna.com": null,
 "snigelweb.com": null,
 "beop.io": null,
@@ -16458,7 +16457,8 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "pages01.net": null,
 "proxistore.com": null,
 "hlserve.com": null,
-"bugsnag.com": null };
+"bugsnag.com": null,
+"openxcdn.net": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

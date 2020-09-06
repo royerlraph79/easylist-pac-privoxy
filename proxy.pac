@@ -16484,7 +16484,24 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "akamaihd.net": null,
 "a-mo.net": null,
 "pr.ybp.yahoo.com": null,
-"dc-1.net": null };
+"dc-1.net": null,
+"mediarithmics.com": null,
+"videostep.com": null,
+"pr-bh.ybp.yahoo.com": null,
+"adap.tv": null,
+"privacy-mgmt.com": null,
+"acidpigs.com": null,
+"trib.al": null,
+"dca0.com": null,
+"mediavine.com": null,
+"gaconnector.com": null,
+"ko-fi.com": null,
+"parsely.com": null,
+"atgsvcs.com": null,
+"ipinfo.io": null,
+"rnengage.com": null,
+"eloqua.com": null,
+"mol2.biz": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

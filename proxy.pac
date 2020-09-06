@@ -16469,7 +16469,16 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "adultblogtoplist.com": null,
 "plublogs.com": null,
 "pornmirage.com": null,
-"n1ora14.online": null };
+"n1ora14.online": null,
+"components.bellmedia.ca": null,
+"smetrics.ctv.ca": null,
+"ad.aloodo.org": null,
+"geolocation.forbes.com": null,
+"speedcurve.com": null,
+"sharethrough.com": null,
+"analytics.businessinsider.com": null,
+"sp-prod.net": null,
+"rebel.ai": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

@@ -16479,7 +16479,6 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "rebel.ai": null,
 "trackonomics.net": null,
 "imrworldwide.com": null,
-"akamaihd.net": null,
 "a-mo.net": null,
 "pr.ybp.yahoo.com": null,
 "dc-1.net": null,
@@ -16514,7 +16513,8 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "vzzylo.com": null,
 "instant.page": null,
 "assets.pinterest.com": null,
-"convertkit.com": null };
+"convertkit.com": null,
+"raygun.io": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

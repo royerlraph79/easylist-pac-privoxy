@@ -16515,7 +16515,8 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "raygun.io": null,
 "tr.snapchat.com": null,
 "stats.radio-canada.ca": null,
-"d-bi.fr": null };
+"d-bi.fr": null,
+"soko.ai": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

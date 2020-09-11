@@ -16551,6 +16551,7 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "sia.com": null,
 "riverhit.com": null,
 "sportsinteraction.com": null,
+"sportsinteraction.net": null,
 "exofrwe.com": null,
 "rollbar.com": null,
 "iie8.com": null };

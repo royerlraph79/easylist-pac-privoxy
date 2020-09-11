@@ -16539,7 +16539,19 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "donstick.com": null,
 "ixxxclips.com": null,
 "hq-porntube.com": null,
-"hdpornvideos.su": null };
+"hdpornvideos.su": null,
+"freesex.pro": null,
+"xxxvideos.su": null,
+"porn-xxx-videos.com": null,
+"strawberryworld.com": null,
+"cloudtraff.com": null,
+"mature-hits.net": null,
+"justservingfiles.net": null,
+"adult-tuber.com": null,
+"trysextube.com": null,
+"lesbian-porn.me": null,
+"xdatabase.info": null,
+"lesbianpornohub.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

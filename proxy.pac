@@ -16534,7 +16534,12 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "makemewell.pro": null,
 "feelsjet.com": null,
 "acloudvideos.com": null,
-"mn1nm.com": null };
+"mn1nm.com": null,
+"smart2cnjuh34jb.com": null,
+"donstick.com": null,
+"ixxxclips.com": null,
+"hq-porntube.com": null,
+"hdpornvideos.su": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

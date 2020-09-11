@@ -16570,8 +16570,13 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "truefitcorp.com": null,
 "brsrvr.com": null,
 "res-x.com": null,
-"scene7.com": null,
-"certona.net": null };
+"certona.net": null,
+"tribalfusion.com": null,
+"curalate.com": null,
+"ispot.tv": null,
+"taglocker.target.com": null,
+"chatid.com": null,
+"salsify-ecdn.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

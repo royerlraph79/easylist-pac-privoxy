@@ -16566,7 +16566,12 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "ravenjs.com": null,
 "cloudfunctions.net": null,
 "justuno.com": null,
-"pdst.fm": null };
+"pdst.fm": null,
+"truefitcorp.com": null,
+"brsrvr.com": null,
+"res-x.com": null,
+"scene7.com": null,
+"certona.net": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

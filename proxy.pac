@@ -16560,7 +16560,11 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "thumb-v-lv.xhcdn.com": null,
 "byteoversea.com": null,
 "ipstatp.com": null,
-"woobox.com": null };
+"woobox.com": null,
+"cohesionapps.com": null,
+"web.facebook.com": null,
+"www.facebook.com": null,
+"ravenjs.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

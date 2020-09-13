@@ -16583,7 +16583,9 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "socialbars-web5.com": null,
 "sadsims.com": null,
 "commercialvalue.org": null,
-"celeritascdn.com": null };
+"celeritascdn.com": null,
+"servenobid.com": null,
+"ssp.yahoo.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

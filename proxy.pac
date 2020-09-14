@@ -16590,7 +16590,11 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "static-od.com": null,
 "msecdn.net": null,
 "split.io": null,
-"visualstudio.com": null };
+"visualstudio.com": null,
+"bordeaux.futurecdn.net": null,
+"awltovhc.com": null,
+"lduhtrp.net": null,
+"ftjcfx.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

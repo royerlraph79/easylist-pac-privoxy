@@ -16612,7 +16612,13 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "socialbars-web2.com": null,
 "peomsproduced.com": null,
 "landlordmanoeuvre.com": null,
-"arableredressalacrity.com": null };
+"arableredressalacrity.com": null,
+"palundrus.com": null,
+"securecloud-smart.com": null,
+"smrt-content.com": null,
+"gdmconvtrck.com": null,
+"cdtbox.rocks": null,
+"blessingpudding.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

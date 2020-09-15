@@ -16643,7 +16643,20 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "voltn.com": null,
 "fidelid.com": null,
 "s3.amazonaws.com": null,
-"ajax.googleapis.com": null };
+"ajax.googleapis.com": null,
+"blogsmithmedia.com": null,
+"vidible.tv": null,
+"readmo.yahoo.com": null,
+"streamrail.net": null,
+"spotim.market": null,
+"kfmlax.com": null,
+"adservd.com": null,
+"adtelligent.com": null,
+"delivercdn.com": null,
+"ecfwds.com": null,
+"eazeax.com": null,
+"appixcdn.com": null,
+"usdeliverer.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

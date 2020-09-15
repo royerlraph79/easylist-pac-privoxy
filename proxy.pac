@@ -16632,7 +16632,18 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "medialink.com": null,
 "mxptint.net": null,
 "engagefront.meteomedia.com": null,
-"pixel.pelmorex.com": null };
+"pixel.pelmorex.com": null,
+"rewardstyle.com": null,
+"associates-amazon.com": null,
+"ahalogy.com": null,
+"now.sh": null,
+"mailmunch.co": null,
+"wpmucdn.com": null,
+"society6.com": null,
+"clevergirlscollective.com": null,
+"voltn.com": null,
+"fidelid.com": null,
+"s3.amazonaws.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

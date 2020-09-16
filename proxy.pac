@@ -16666,7 +16666,10 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "global.fncstatic.com": null,
 "taplytics.com": null,
 "static.foxbusiness.com": null,
-"spot.im": null };
+"spot.im": null,
+"amp-spot-im.cdn.ampproject.org": null,
+"pavlov-prod.healthline.com": null,
+"s.pinimg.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

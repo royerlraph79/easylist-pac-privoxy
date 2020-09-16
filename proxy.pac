@@ -16663,7 +16663,7 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "aswpsdkus.com": null,
 "global.fncstatic.com": null,
 "taplytics.com": null,
-"static.foxbusiness.com": null,
+"a57.foxnews.com": null,
 "spot.im": null,
 "amp-spot-im.cdn.ampproject.org": null,
 "pavlov-prod.healthline.com": null,
@@ -16673,7 +16673,8 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "assets.medicalnewstoday.com": null,
 "qsbr.fs.quoracdn.net": null,
 "tapnative.com": null,
-"smetrics.sharecare.com": null };
+"smetrics.sharecare.com": null,
+"fundingchoicesmessages.google.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

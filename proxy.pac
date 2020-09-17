@@ -16690,7 +16690,10 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "ajax.cloudflare.com": null,
 "jsrdn.com": null,
 "omnikick.com": null,
-"s-onetag.com": null };
+"s-onetag.com": null,
+"wishabi.com": null,
+"flyertown.ca": null,
+"mybbc-analytics.files.bbci.co.uk": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

@@ -6806,7 +6806,6 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "enthusiast-gaming-d.openx.net": null,
 "enthusiastgaming-tagan.adlightning.com": null,
 "entineffieldsta.site": null,
-"entitlements.jwplayer.com": null,
 "entrecard.s3.amazonaws.com": null,
 "entree.igetget.com": null,
 "entry.baidu.com": null,
@@ -16682,7 +16681,8 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "mibawards.ca": null,
 "feedality.com": null,
 "geolocation-db.com": null,
-"sensic.net": null };
+"sensic.net": null,
+"aptivada.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

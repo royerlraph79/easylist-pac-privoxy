@@ -16697,7 +16697,9 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "rackcdn.com": null,
 "awepsi.com": null,
 "protoawe.com": null,
-"siteswithcontent.com": null };
+"siteswithcontent.com": null,
+"protoawegw.com": null,
+"dditscdn.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

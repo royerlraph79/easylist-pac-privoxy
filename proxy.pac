@@ -16687,7 +16687,9 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "kinesis.us-east-1.amazonaws.com": null,
 "chimpstatic.com": null,
 "t.bodylogicmd.com": null,
-"ajax.cloudflare.com": null };
+"ajax.cloudflare.com": null,
+"jsrdn.com": null,
+"omnikick.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

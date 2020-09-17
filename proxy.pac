@@ -16683,7 +16683,8 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "feedality.com": null,
 "geolocation-db.com": null,
 "sensic.net": null,
-"aptivada.com": null };
+"aptivada.com": null,
+"kinesis.us-east-1.amazonaws.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

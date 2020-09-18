@@ -18846,7 +18846,11 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "count.carrierzone.com": null,
 "client-event-reporter.twitch.tv": null,
 "log.ecgh.dk": null,
-"bitadexchange.com": null };
+"bitadexchange.com": null,
+"ladsipz.com": null,
+"pantherfaucetchoked.com": null,
+"rollersadnessstranded.com": null,
+"reinspersian.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

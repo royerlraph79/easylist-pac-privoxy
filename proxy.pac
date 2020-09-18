@@ -16716,7 +16716,8 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "condenastdigital.com": null,
 "dnzr1u0fg08d8.cloudfront.net": null,
 "conde.io": null,
-"sstats.self.com": null };
+"sstats.self.com": null,
+"jilt.io": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

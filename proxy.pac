@@ -18882,7 +18882,8 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "subscribe.washingtonpost.com": null,
 "cdn.syndication.twimg.com": null,
 "honorableland.com": null,
-"pdk.theplatform.com": null };
+"shareaholic.net": null,
+"delivra.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

@@ -18852,7 +18852,19 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "rollersadnessstranded.com": null,
 "reinspersian.com": null,
 "vfthr.com": null,
-"stat.aporntv.com": null };
+"stat.aporntv.com": null,
+"ponchowafesargb.com": null,
+"hadsokz.com": null,
+"illustrationmanlypageant.com": null,
+"mistressavouchdeity.com": null,
+"regulationprivilegescan.top": null,
+"richshredinger.com": null,
+"loerv.com": null,
+"sdhfbvd.com": null,
+"maximgushyoga.com": null,
+"myselfjanitor.com": null,
+"inevitablemittenprefer.com": null,
+"xineday.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

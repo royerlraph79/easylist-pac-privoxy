@@ -16712,7 +16712,10 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "dmleonyc.com": null,
 "rtk.io": null,
 "hostedprebid.com": null,
-"dmxleo.dailymotion.com": null };
+"dmxleo.dailymotion.com": null,
+"condenastdigital.com": null,
+"dnzr1u0fg08d8.cloudfront.net": null,
+"conde.io": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

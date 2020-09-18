@@ -16716,7 +16716,6 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "condenastdigital.com": null,
 "dnzr1u0fg08d8.cloudfront.net": null,
 "conde.io": null,
-"d2c8v52ll5s99u.cloudfront.net": null,
 "dp8hsntg6do36.cloudfront.net": null,
 "sstats.self.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules

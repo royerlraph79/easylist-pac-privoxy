@@ -16705,7 +16705,11 @@ var bad_da_host_JSON = { "0pixl.com": null,
 "chicoryapp.com": null,
 "opmnstr.com": null,
 "omappapi.com": null,
-"substack.com": null };
+"substack.com": null,
+"lemde.fr": null,
+"dmxleo.com": null,
+"dm-event.net": null,
+"dmleonyc.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

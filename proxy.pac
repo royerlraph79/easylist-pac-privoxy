@@ -18932,13 +18932,14 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "tctm.co": null,
 "piwik.pro": null,
 "acsbapp.com": null,
-"assets.hearstgames.com": null,
-"riddler.hearstgames.com": null,
+"assets.hearstapps.com": null,
+"hearstgames.com": null,
 "myschemes.co.uk": null,
 "supert.ag": null,
 "assets.repair.org": null,
 "d2t953dxm5i0o5.cloudfront.net": null,
-"flocdn.com": null };
+"flocdn.com": null,
+"geni.us": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

@@ -18939,7 +18939,15 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "assets.repair.org": null,
 "d2t953dxm5i0o5.cloudfront.net": null,
 "flocdn.com": null,
-"geni.us": null };
+"geni.us": null,
+"yyjvimo.com": null,
+"ck.page": null,
+"avantlink.com": null,
+"connectif.cloud": null,
+"d.email.schwinnbikes.com": null,
+"ampry.com": null,
+"tiznmktqel.com": null,
+"avmws.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

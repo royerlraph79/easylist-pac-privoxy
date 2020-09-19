@@ -18898,7 +18898,12 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "statserv.net": null,
 "usercontent.net": null,
 "gunzblazing.com": null,
-"trafficboro.com": null };
+"trafficboro.com": null,
+"rutpunishsnitch.com": null,
+"xslt.alexa.com": null,
+"logicbeta.com": null,
+"easysexe.com": null,
+"easy-dating.org": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

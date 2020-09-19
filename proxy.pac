@@ -18958,7 +18958,14 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "newscgp.com": null,
 "b0e8.com": null,
 "tpdads.com": null,
-"d2zqfs55y95cft.cloudfront.net": null };
+"d2zqfs55y95cft.cloudfront.net": null,
+"adapex.io": null,
+"upapi.net": null,
+"baleiambwee.com": null,
+"vownixsofa.com": null,
+"ismtampsshad.icu": null,
+"moppinfop.com": null,
+"shyhuetub.site": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

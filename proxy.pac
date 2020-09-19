@@ -18927,7 +18927,8 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "showmeyouradsnow.com": null,
 "cnt.proporn.com": null,
 "propbn.com": null,
-"amp-spot-im.cdn.ampproject.org": null };
+"amp-spot-im.cdn.ampproject.org": null,
+"appcenter.ms": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

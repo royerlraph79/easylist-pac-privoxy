@@ -18907,7 +18907,8 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "wadawada-stop-report-us.com": null,
 "ads.porndoe.com": null,
 "datingfor-adults2.com": null,
-"tdsjsext5.com": null };
+"tdsjsext5.com": null,
+"pd-news.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

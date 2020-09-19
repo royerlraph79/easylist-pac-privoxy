@@ -18949,7 +18949,18 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "tiznmktqel.com": null,
 "avmws.com": null,
 "pelcro.com": null,
-"ofsys.com": null };
+"ofsys.com": null,
+"swa.and.co.uk": null,
+"mol.im": null,
+"scripts.dailymail.co.uk": null,
+"t.dailymail.co.uk": null,
+"dmpxs.com": null,
+"jifo.co": null,
+"civicscience.com": null,
+"newscgp.com": null,
+"b0e8.com": null,
+"tpdads.com": null,
+"d2zqfs55y95cft.cloudfront.net": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

@@ -18968,7 +18968,8 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "report-uri.io": null,
 "fff.dailymail.co.uk": null,
 "impactradius-event.com": null,
-"profitwell.com": null };
+"profitwell.com": null,
+"dragonfru.it": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

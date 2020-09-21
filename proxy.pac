@@ -18974,7 +18974,16 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "app-us1.com": null,
 "online-metrix.net": null,
 "ebayrtm.com": null,
-"webcollage.net": null };
+"webcollage.net": null,
+"proper.io": null,
+"counter.conversation.com": null,
+"assets.verticalhealth.net": null,
+"ct.verticalhealth.net": null,
+"gdc.indeed.com": null,
+"id.verticalhealth.net": null,
+"lockerdome.com": null,
+"a.et.nytimes.com": null,
+"a.nytimes.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

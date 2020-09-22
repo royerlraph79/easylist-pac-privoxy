@@ -18451,7 +18451,7 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "rewardstyle.com": null,
 "associates-amazon.com": null,
 "ahalogy.com": null,
-"express-now.batman13.now.sh": null,
+"now.sh": null,
 "mailmunch.co": null,
 "wpmucdn.com": null,
 "society6.com": null,
@@ -19006,7 +19006,8 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "geoip.nbcnews.com": null,
 "mps.nbcuni.com": null,
 "p2r14.com": null,
-"zephr.nypost.com": null };
+"zephr.nypost.com": null,
+"tray0bury": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

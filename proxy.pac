@@ -18484,13 +18484,12 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "pavlov-prod.healthline.com": null,
 "s.pinimg.com": null,
 "s3-ap-southeast-2.amazonaws.com": null,
-"assets.medicalnewstoday.com": null,
 "qsbr.fs.quoracdn.net": null,
 "tapnative.com": null,
 "smetrics.sharecare.com": null,
 "fundingchoicesmessages.google.com": null,
 "yieldmo.com": null,
-"ampproject.net": null,
+"3p.ampproject.net": null,
 "soundestlink.com": null,
 "omnisrc.com": null,
 "d2wy8f7a9ursnm.cloudfront.net": null,
@@ -19004,7 +19003,12 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "serverbid.com": null,
 "pixel.legit.ng": null,
 "mailfire.io": null,
-"adpone.com": null };
+"adpone.com": null,
+"condenast.io": null,
+"assets.nbcnews.com": null,
+"assets1b.nbcnews.com": null,
+"geoip.nbcnews.com": null,
+"mps.nbcuni.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

@@ -18489,7 +18489,7 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "smetrics.sharecare.com": null,
 "fundingchoicesmessages.google.com": null,
 "yieldmo.com": null,
-"3p.ampproject.net": null,
+"ampproject.net": null,
 "soundestlink.com": null,
 "omnisrc.com": null,
 "d2wy8f7a9ursnm.cloudfront.net": null,
@@ -19012,7 +19012,8 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "googleoptimize.com": null,
 "heads-fa.scdn.co": null,
 "sp-bootstrap.global.ssl.fastly.net": null,
-"smetrics.tmz.com": null };
+"smetrics.tmz.com": null,
+"wompanalytics.azurewebsites.net": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

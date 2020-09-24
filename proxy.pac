@@ -19026,7 +19026,12 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "secure.assets.tumblr.com": null,
 "dtxlpdcemgvh9.cloudfront.net": null,
 "d3pgytnf8hmy9s.cloudfront.net": null,
-"mppapi.io": null };
+"mppapi.io": null,
+"addthiscdn.com": null,
+"leadpages.net": null,
+"lpages.co": null,
+"deadlinefunnel.com": null,
+"siteimprove.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

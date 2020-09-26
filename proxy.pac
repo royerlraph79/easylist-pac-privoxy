@@ -18486,7 +18486,7 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "smetrics.sharecare.com": null,
 "fundingchoicesmessages.google.com": null,
 "yieldmo.com": null,
-"ampproject.net": null,
+"3p.ampproject.net": null,
 "soundestlink.com": null,
 "omnisrc.com": null,
 "d2wy8f7a9ursnm.cloudfront.net": null,
@@ -19048,7 +19048,10 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "s.imgur.com": null,
 "getsmartlook.com": null,
 "71db60050c259edffdf7dfb134401ed63904c3db0d3c8eea0ef817b4.com": null,
-"smartlook.cloud": null };
+"smartlook.cloud": null,
+"jill.fc.yahoo.com": null,
+"publisher--assets-spot-im.cdn.ampproject.org": null,
+"dmgmediaprivacy.co.uk": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

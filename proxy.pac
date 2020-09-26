@@ -19033,7 +19033,13 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "omnivirt.com": null,
 "analytics.video.meredithcorp.io": null,
 "plantdigestion.com": null,
-"stats.merriam-webster.com": null };
+"stats.merriam-webster.com": null,
+"chfpgcbe.com": null,
+"traffer.net": null,
+"aj1616.online": null,
+"yastatic.net": null,
+"budaicius.com": null,
+"clickgratis.com.br": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

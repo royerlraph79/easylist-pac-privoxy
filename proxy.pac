@@ -19052,7 +19052,9 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "jill.fc.yahoo.com": null,
 "publisher--assets-spot-im.cdn.ampproject.org": null,
 "dmgmediaprivacy.co.uk": null,
-"adservice.google.co.uk": null };
+"adservice.google.co.uk": null,
+"crta.metro.co.uk": null,
+"rta2.metro.co.uk": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

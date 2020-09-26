@@ -19046,8 +19046,9 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "st.kompoz.me": null,
 "crashlyticsreports-pa.googleapis.com": null,
 "s.imgur.com": null,
-"s-usc1c-nss-230.firebaseio.com": null,
-"71db60050c259edffdf7dfb134401ed63904c3db0d3c8eea0ef817b4.com": null };
+"getsmartlook.com": null,
+"71db60050c259edffdf7dfb134401ed63904c3db0d3c8eea0ef817b4.com": null,
+"smartlook.cloud": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

@@ -19065,6 +19065,7 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "sp.nymag.com": null,
 "fls-na.amazon.ca": null,
 "unagi.amazon.ca": null,
+"unagi.amazon.com": null,
 "unagi-na.amazon.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     

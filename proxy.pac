@@ -19039,7 +19039,10 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "aj1616.online": null,
 "yastatic.net": null,
 "budaicius.com": null,
-"3wasonnet.com": null };
+"3wasonnet.com": null,
+"d26b395fwzu5fz.cloudfront.net": null,
+"yandex.net": null,
+"yandex.ru": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

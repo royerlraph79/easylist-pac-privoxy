@@ -19029,7 +19029,8 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "wheneverwholly.com": null,
 "palmtube.net": null,
 "adsader.com": null,
-"lcwfabt1.com": null };
+"lcwfabt1.com": null,
+"wpush.org": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

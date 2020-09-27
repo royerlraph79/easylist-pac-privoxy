@@ -19034,7 +19034,17 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "bestcontentprogram.top": null,
 "easy2cnjuh34jb.com": null,
 "awptjmp.com": null,
-"clickfunnels.com": null };
+"clickfunnels.com": null,
+"goaffpro.com": null,
+"joinclyde.com": null,
+"pushnami.com": null,
+"statistic.zipify.com": null,
+"manychat.com": null,
+"mccdn.me": null,
+"smile.io": null,
+"smilecdn.co": null,
+"routeapp.io": null,
+"loox.io": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

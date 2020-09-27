@@ -18476,7 +18476,6 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "protoawe.com": null,
 "siteswithcontent.com": null,
 "protoawegw.com": null,
-"dditscdn.com": null,
 "analytics.food.com": null,
 "analytics.sndigital.com": null,
 "chicoryapp.com": null,
@@ -19029,7 +19028,12 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "palmtube.net": null,
 "adsader.com": null,
 "lcwfabt1.com": null,
-"wpush.org": null };
+"wpush.org": null,
+"adiktivebanners.b-cdn.net": null,
+"adiktivebanners.com": null,
+"bestcontentprogram.top": null,
+"easy2cnjuh34jb.com": null,
+"awptjmp.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

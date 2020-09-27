@@ -19049,7 +19049,11 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "indoleads.com": null,
 "upsellit.com": null,
 "ip2c.org": null,
-"collect.iteam-dress.com": null };
+"collect.iteam-dress.com": null,
+"tqlkg.com": null,
+"affirm.com": null,
+"yotpo.com": null,
+"monorail-edge.shopifysvc.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

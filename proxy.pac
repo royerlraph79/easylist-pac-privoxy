@@ -19073,7 +19073,10 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "hotjar.io": null,
 "abeagle-public.buzzfeed.com": null,
 "pixiedust.buzzfeed.com": null,
-"adrizer.com": null };
+"adrizer.com": null,
+"whizzco.com": null,
+"fouanalytics.com": null,
+"lmyiwaakn.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

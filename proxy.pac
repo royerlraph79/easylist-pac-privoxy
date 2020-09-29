@@ -19062,7 +19062,18 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "dc7e73byc1qpi.cloudfront.net": null,
 "cnevids.com": null,
 "cnzz.com": null,
-"d1pzjdztdxpvck.cloudfront.net": null };
+"d1pzjdztdxpvck.cloudfront.net": null,
+"ubembed.com": null,
+"klslhjjb.racing": null,
+"crtx.info": null,
+"ddgwjbl2xizj2.cloudfront.net": null,
+"dw7nrwnn2bkh1.cloudfront.net": null,
+"servedbyopenx.com": null,
+"udmserve.net": null,
+"hotjar.io": null,
+"abeagle-public.buzzfeed.com": null,
+"pixiedust.buzzfeed.com": null,
+"adrizer.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

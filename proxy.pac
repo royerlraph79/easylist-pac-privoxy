@@ -19092,7 +19092,15 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "calltrk.com": null,
 "attn.tv": null,
 "swellrewards.com": null,
-"humanautomation.ai": null };
+"humanautomation.ai": null,
+"constant.co": null,
+"unileversolutions.com": null,
+"foodity.com": null,
+"optimonk.com": null,
+"interact-analytics.com": null,
+"fomo.com": null,
+"usefomo.com": null,
+"tryinteract.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

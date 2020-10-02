@@ -19110,7 +19110,10 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "bliink.io": null,
 "iljmp.com": null,
 "stats.comment-economiser.fr": null,
-"trackjs.com": null };
+"trackjs.com": null,
+"ownlocal.com": null,
+"arcpublishing.com": null,
+"sophi.io": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

@@ -19114,7 +19114,16 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "arcpublishing.com": null,
 "sophi.io": null,
 "d1v9u0bgi1uimx.cloudfront.net": null,
-"resources.thestar.com": null };
+"resources.thestar.com": null,
+"a1.api.bbc.co.uk": null,
+"edigitalsurvey.com": null,
+"news.files.bbci.co.uk": null,
+"nav.files.bbci.co.uk": null,
+"fig.bbc.co.uk": null,
+"idcta.api.bbc.co.uk": null,
+"static.files.bbci.co.uk": null,
+"toggles.api.bbci.co.uk": null,
+"amp.cbc.ca": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

@@ -19139,7 +19139,10 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "riddler.hearstgames.com": null,
 "joker.hearstgames.com": null,
 "event.api.birchbox.com": null,
-"recsys-api.buzzfeed.com": null };
+"recsys-api.buzzfeed.com": null,
+"maxmind.com": null,
+"viewdeos.com": null,
+"technoratimedia.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

@@ -19163,7 +19163,11 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "d-3763547552481300675.ampproject.net": null,
 "d-1730332411205877291.ampproject.net": null,
 "9kink.s3.us-east-2.amazonaws.com": null,
-"asf4f.us": null };
+"asf4f.us": null,
+"rejcinews.pro": null,
+"resniks.pro": null,
+"mimilcnf.pro": null,
+"melvillet.pro": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

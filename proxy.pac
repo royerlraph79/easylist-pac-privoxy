@@ -17118,7 +17118,6 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "videoindigen.com": null,
 "videology-partners.tremorhub.com": null,
 "videoplayer2.xyz": null,
-"videoplayerhub.com": null,
 "videoplayerscript.club": null,
 "videoplaza.com": null,
 "videoplaza.tv": null,
@@ -19160,7 +19159,8 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "resonate.com": null,
 "btserve.com": null,
 "e.reddit.com": null,
-"platform.twitter.com": null };
+"platform.twitter.com": null,
+"bigpipes.co": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

@@ -19158,7 +19158,10 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "cfgr2.com": null,
 "analytics.womenworking.com": null,
 "3p-geo.yahoo.com": null,
-"ehealthcaresolutions.com": null };
+"ehealthcaresolutions.com": null,
+"d-2081334425166672653.ampproject.net": null,
+"d-3763547552481300675.ampproject.net": null,
+"d-1730332411205877291.ampproject.net": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

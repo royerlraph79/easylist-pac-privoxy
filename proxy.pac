@@ -19133,7 +19133,13 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "paywall-ad-bucket.s3.amazonaws.com": null,
 "dblks.net": null,
 "ayc0zsm69431gfebd.info": null,
-"nxakpj4ac8gkd53.info": null };
+"nxakpj4ac8gkd53.info": null,
+"geoip-js.com": null,
+"jam.hearstapps.com": null,
+"riddler.hearstgames.com": null,
+"joker.hearstgames.com": null,
+"event.api.birchbox.com": null,
+"recsys-api.buzzfeed.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

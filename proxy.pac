@@ -19143,7 +19143,10 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "maxmind.com": null,
 "viewdeos.com": null,
 "technoratimedia.com": null,
-"tracking.allthingshair.com": null };
+"tracking.allthingshair.com": null,
+"schemaapp.com": null,
+"d2badvwg0mti9p.cloudfront.net": null,
+"d6vo2natd8u8k.cloudfront.net": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

@@ -19124,7 +19124,17 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "toggles.api.bbci.co.uk": null,
 "beta.ctvnews.ca": null,
 "gannettdigital.com": null,
-"collector.abc.net.au": null };
+"collector.abc.net.au": null,
+"segment.com": null,
+"sqreen.io": null,
+"monsido.com": null,
+"ads-servebom-com.cdn.ampproject.org": null,
+"db-ip.com": null,
+"0cf.io": null,
+"paywall-ad-bucket.s3.amazonaws.com": null,
+"dblks.net": null,
+"ayc0zsm69431gfebd.info": null,
+"nxakpj4ac8gkd53.info": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

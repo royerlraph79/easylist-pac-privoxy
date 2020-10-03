@@ -19169,7 +19169,8 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "mimilcnf.pro": null,
 "melvillet.pro": null,
 "resnikscdn.pro": null,
-"sobakapi2sa8la09.com": null };
+"sobakapi2sa8la09.com": null,
+"tibacta.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

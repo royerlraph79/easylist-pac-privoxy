@@ -19161,7 +19161,8 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "ehealthcaresolutions.com": null,
 "d-2081334425166672653.ampproject.net": null,
 "d-3763547552481300675.ampproject.net": null,
-"d-1730332411205877291.ampproject.net": null };
+"d-1730332411205877291.ampproject.net": null,
+"9kink.s3.us-east-2.amazonaws.com": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:

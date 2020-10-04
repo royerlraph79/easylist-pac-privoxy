@@ -19161,7 +19161,12 @@ var bad_da_host_JSON = { "100234.advision-adnw.jp": null,
 "e.reddit.com": null,
 "platform.twitter.com": null,
 "bigpipes.co": null,
-"videoplayerhub.com": null };
+"videoplayerhub.com": null,
+"digiteka.net": null,
+"d-7539834291113813576.ampproject.net": null,
+"spott.ai": null,
+"download.vikidia.org": null,
+"stats.vikidia.org": null };
 var bad_da_host_exact_flag = 3999 > 0 ? true : false;  // test for non-zero number of rules
     
 // 27 rules as an efficient NFA RegExp:
